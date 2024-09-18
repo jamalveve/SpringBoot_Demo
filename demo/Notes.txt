@@ -1,0 +1,7 @@
+
+spring 5->jdk 8
+spring 6->jdk 17
+One of the important core features the spring is
+Dependecny Injection & Ioc
+Dependency Injection
+******************** 
